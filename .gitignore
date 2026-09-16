@@ -1,0 +1,12 @@
+# Compiled executables
+*.exe
+*.out
+*.o
+
+# Lab 1 compiled programs
+softlink
+hardlink
+fifo
+
+# Temporary files
+*.tmp
