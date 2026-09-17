@@ -1,0 +1,6 @@
+Written using original FD
+Written using dup FD
+Written using original FD again
+Written using dup2 FD
+Written using original FD third time
+Written using fcntl FD
